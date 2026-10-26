@@ -2,7 +2,7 @@
 
 Landing page (página única) sobre pequenas atitudes sustentáveis que podem ser colocadas em prática na rotina. trabalho desenvolvido para a disciplina de Programação Front-end, com o professor **Lucas José de Souza**.
 
-🔗 **Site publicado:** https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
+🔗 **Site publicado:** [https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/](https://pfrazao1.github.io/projeto-bootstrap/#inicio)
 
 ---
 
@@ -60,7 +60,7 @@ O formulário pede nome, e-mail, categoria da ideia, cidade (opcional), a ideia 
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/pfrazao1/projeto-bootstrap.git)
    ```
 2. Abra a pasta no Visual Studio Code.
 3. Abra o arquivo `index.html` no navegador (ou use a extensão Live Server).
